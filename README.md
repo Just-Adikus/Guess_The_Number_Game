@@ -32,7 +32,7 @@ flutter --version
 
 2. Клонируйте репозиторий:
 ```bash
-git clone https://your-repository-url/guess_number_game.git
+git clone https://github.com/Just-Adikus/Guess_The_Number_Game.git
 cd guess_number_game
 ```
 
@@ -99,13 +99,6 @@ lib/
 
 ```
 
-## Тестирование
-
-Запуск unit-тестов:
-```bash
-flutter test
-```
-
 ## Технологический стек
 
 - Flutter
@@ -130,30 +123,15 @@ flutter test
 Для доступа к настройкам нажмите на иконку шестеренки в правом верхнем углу экрана.
 
 
-## Разработка
-
-### Добавление новых функций
-
-1. Создайте новую ветку:
-```bash
-git checkout -b feature/your-feature-name
-```
-
-2. Внесите изменения и создайте тесты
-
-3. Запустите тесты:
-```bash
-flutter test
-```
-
-4. Создайте Pull Request
-
 ### Стиль кода
 
 - Следуйте [руководству по стилю Dart](https://dart.dev/guides/language/effective-dart/style)
 - Используйте строгий режим типизации
 - Добавляйте документацию для публичных API
 - Форматируйте код с помощью `dart format`
+
+
+
 
 
 
